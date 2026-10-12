@@ -1,0 +1,5 @@
+# Dépendances du projet « Password Checker »
+# (les modules hashlib, getpass, secrets et string sont dans la bibliothèque standard)
+
+requests        # appels à l'API Have I Been Pwned
+streamlit       # interface web (app_web.py)
